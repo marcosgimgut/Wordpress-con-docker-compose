@@ -79,9 +79,9 @@ docker-compose ps
 ```
 
 
-![Imagen de instalación de wordpress](/img/Captura1.PNG)
-![Imagen del dashboard de Wordpress](/img/Captura2.PNG)
-![Imagen de wordpress funcionando](/img/Captura3.PNG)
+![Imagen de instalación de wordpress](../Captura1.PNG)
+![Imagen del dashboard de Wordpress](../img/Captura2.PNG)
+![Imagen de wordpress funcionando](/../Captura3.PNG)
 
 * Si queremos parar los contenedores:
 
